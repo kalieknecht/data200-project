@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore extracted csv files
+*.csv
+
+# Ignore extracted Data folder
+data/Dataset A
+
+# Ignore notebook checkpoints 
+.ipynb_checkpoints
