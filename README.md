@@ -2,7 +2,6 @@
 
 ## Project members:
 * Name: Kalie Knecht
-* SID: 3035325996
 * Email: kalie@berkeley.edu
 
 ## Dataset(s) I’ll be using: 
@@ -21,10 +20,3 @@ The following subsection contains more details on how to work with the first rep
 * To help you get started with a dataset of manageable size, we have preprocessed the GHCN dataset to include only the average temperature and precipitation measurements from stations that have both measurements. Each row in the preprocessed dataset contains both the average temperature and precipitation measurements for a given station on a given date.
 * If you wish to explore the climate data for a different year, you can use the GHCN_data_preprocessing.ipynb notebook to download and perform the preprocessing described above. Please be advised that depending on the dataset size for a given year, GHCN_data_preprocessing.ipynb may not run on DataHub. We will not be providing infrastructural support for running the notebook, but you are welcome to run it on a different machine you have access to or ask a GSI to dump the data for you.
 * The data contains only the (latitude, longitude) coordinates for the weather stations. To map the coordinates to geographical locations, the reverse-geocoder package mentioned in the References section might be helpful.
-
-## 2-3 sentence outline:  
-I'll be exploring countries which emit the most greenhouse gases vs which areas of the world are more affected by global warming. Additionally I will take a look at how the nuclear energy capacity of each country correlates to their greenhouse gas output. I would also like to explore some radiation data in relation to this second question, which I will obtain from my research group's environmental monitoring stations.
-
-## Feedback from instructors
-I think your scope is good as you do explicitly mention what you’re going over in your proposal. I would recommend maybe cutting down on the topics and going more in depth over 1 or 2 topics over a 3 week period. I think the question is really good, however a bit broad so I would recommend narrowing and being more specific as to what analysis you plan to do and inference involved. Maybe think about the creative/innovative aspects of your project.
-We highly recommend that you refine your proposal and adjust the general direction of the project if possible based on the feedback. 
